@@ -36,7 +36,7 @@ I am an **AI/ML Engineer** focused on designing **scalable, reliable, and explai
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 [LinkedIn](your-linkedin-url)
-- 📧 [Email](mraghavendra.2005@gmail.com)
+- 📧 **Email:** mraghavendra.2005@gmail.com
 
 
 ---
