@@ -31,3 +31,12 @@ I am an **AI/ML Engineer** focused on designing **scalable, reliable, and explai
 - **Optimization & Inference:** Groq (LPU), vLLM, inference latency tuning
 
 ---
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 [LinkedIn](your-linkedin-url)
+- 📧 [Email](mraghavendra.2005@gmail.com)
+
+
+---
