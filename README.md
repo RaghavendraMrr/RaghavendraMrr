@@ -17,8 +17,8 @@ I am an **AI/ML Engineer** focused on designing **scalable, reliable, and explai
 ### ✍️ NLP & Generative AI
 - **NLP:** Transformers, NER, sentiment analysis, tokenization  
 - **LLMs:** GPT-4, Llama 3.3, Claude, Mistral  
-- **RAG:** Semantic search, hybrid retrieval, FAISS, ChromaDB  
-- **Agents:** LangGraph, LangChain, tool-use patterns, self-correction
+- **RAG:** Semantic search, hybrid retrieval, FAISS, ChromaDB,Qdrant
+- **Agents:** LangGraph, LangChain, LangChain, tool-use patterns, self-correction
 
 ### 📊 Data Engineering
 - **Analysis:** Pandas, NumPy, advanced EDA, Seaborn  
